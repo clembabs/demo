@@ -1,0 +1,22 @@
+ [
+            {
+                "id": "1",
+                "topic": "Fashion Design",
+                "image": "https://picsum.photos/200/300?grayscale"
+            },
+            {
+                "id": "2",
+                "topic": "Baking",
+                "image": "https://picsum.photos/seed/picsum/200/300"
+            },
+            {
+                "id": "3",
+                "topic": "Baking",
+                "image": "https://picsum.photos/id/237/200/300"
+            },
+            {
+                "id": "4",
+                "topic": "Baking",
+                "image": "https://picsum.photos/seed/237/200/300"
+            }
+        ]
